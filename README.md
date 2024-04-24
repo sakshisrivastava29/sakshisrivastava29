@@ -41,7 +41,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/sakshisrivastava29/sakshisrivastava29/output/snake.svg" alt="Snake animation" />
 
 ###
 
